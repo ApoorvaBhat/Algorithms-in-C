@@ -1,0 +1,4 @@
+common.acceptNonVisualBeans=true
+common.showDebugInfo=true
+eclipse.preferences.version=1
+editor.recognizeSourceGUI=true
